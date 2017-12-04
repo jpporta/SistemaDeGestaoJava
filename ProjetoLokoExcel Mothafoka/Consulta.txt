@@ -1,0 +1,4 @@
+https://www.mkyong.com/java/how-to-read-and-parse-csv-file-in-java/
+https://docs.oracle.com/javase/tutorial/uiswing/components/tabbedpane.html
+https://docs.oracle.com/javase/tutorial/uiswing/components/slider.html
+https://docs.oracle.com/javase/tutorial/uiswing/components/menu.html
